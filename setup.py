@@ -1,6 +1,6 @@
 from setuptools import setup
 
-setup(name='landsatmetadataparser',
+setup(name='landsatmtlparser',
 	  version='0.1',
 	  description='Python package for parsing Landsat metadata files.',
 	  url='https://github.com/kbasten/landsatmtlparser',
